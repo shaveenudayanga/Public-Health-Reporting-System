@@ -19,5 +19,5 @@ The Public Health Reporting System (PHRS) is an online reporting system that has
 -	AS2022425 – P.L.I.U. Leelarathne
 
 ## License
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)<Br/>
 Licensed under the [MIT License](./LICENSE).
